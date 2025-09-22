@@ -1,4 +1,4 @@
-# Power-BI_Superstore-Sales-and-Expansion-Strategy-Analysis
+# [Power BI] Superstore-Sales-and-Expansion-Strategy-Analysis
 ## I. Introduction
 - The Global Superstore dataset contains sales data from a multinational retail company operating across various regions and continents. 
 The dataset includes **three tables**:
