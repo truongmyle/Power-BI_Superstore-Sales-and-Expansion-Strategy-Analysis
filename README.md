@@ -103,7 +103,8 @@ The dataset contains 3 tables:
 
 #### 3️⃣ Data Relationships:  
 
-<img width="1017" height="605" alt="image" src="https://github.com/user-attachments/assets/0b02d0ec-5806-4bce-9b0c-a08545d8c959" />
+<img width="1068" height="634" alt="image" src="https://github.com/user-attachments/assets/9a29d11e-07fe-415b-bf0e-cc2d63a6be0d" />
+
 
 ---
 
