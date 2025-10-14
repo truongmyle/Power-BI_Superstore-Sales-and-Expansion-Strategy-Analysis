@@ -131,7 +131,8 @@ The dataset contains 3 tables:
 ### 🔍 Dashboard Preview  
 
 #### 1️⃣ Business Overview  
-<img width="1197" height="672" alt="image" src="https://github.com/user-attachments/assets/d1e3f9bb-0973-496c-bed4-00391f92fbf9" />
+
+<img width="1197" height="672" alt="Ảnh chụp màn hình 2025-09-06 131652" src="https://github.com/user-attachments/assets/6aabddff-9c26-4362-9306-f7ee1575c641" />
 
 🎯Observations:  
 
@@ -148,7 +149,8 @@ The dataset contains 3 tables:
 Canada, Africa, and EMEA have **very small bubbles**, meaning return rates are negligible.
 
 #### 2️⃣ Market Analysis
-<img width="1299" height="726" alt="image" src="https://github.com/user-attachments/assets/d0c89111-63de-4a41-9905-61a9f11cf401" />
+
+<img width="1299" height="726" alt="Ảnh chụp màn hình 2025-09-06 131420" src="https://github.com/user-attachments/assets/8a603a42-751f-4e5c-87df-f215ac6438be" />
 
 🎯Observations:
 
@@ -158,7 +160,8 @@ Canada, Africa, and EMEA have **very small bubbles**, meaning return rates are n
 - High-growth, profitable sub-categories include **Copiers, Phones, Bookcases.**
 
 #### 3️⃣ Product Analysis
-<img width="1299" height="736" alt="image" src="https://github.com/user-attachments/assets/9bb0c061-fc09-4bd4-83e4-51f1be35a7f7" /> 
+
+<img width="1299" height="736" alt="Ảnh chụp màn hình 2025-09-06 131717" src="https://github.com/user-attachments/assets/a86094f0-e953-478e-811b-e8ba563c5b1f" />
 
 🎯Observations:   
 
@@ -168,6 +171,7 @@ Canada, Africa, and EMEA have **very small bubbles**, meaning return rates are n
 
 #### 4️⃣ Product Details
 
+<img width="1281" height="733" alt="Ảnh chụp màn hình 2025-09-06 131735" src="https://github.com/user-attachments/assets/93c0228b-5cac-4cbc-af9e-0670d2012ec1" />
 
 ---
 
