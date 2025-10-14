@@ -103,21 +103,23 @@ The dataset contains 3 tables:
 
 #### 3️⃣ Data Relationships:  
 
-<img width="1068" height="634" alt="image" src="https://github.com/user-attachments/assets/9a29d11e-07fe-415b-bf0e-cc2d63a6be0d" />
-
+<img width="1068" height="634" alt="retail" src="https://github.com/user-attachments/assets/59fd9f55-aea9-49bf-9f78-b0072659d13b" />
 
 ---
 
 ## 🧠 Design Thinking Process  
 
 ### Step 1: Empathize
-<img width="1854" height="574" alt="image" src="https://github.com/user-attachments/assets/a2d29cdb-8a86-463a-95e4-f1139b7674a0" />
+
+<img width="1855" height="579" alt="pj2-1" src="https://github.com/user-attachments/assets/64cfa56b-47db-4ef3-bfcf-a01e986a31d3" />
 
 ### Step 2: Define POV
-<img width="1862" height="518" alt="image" src="https://github.com/user-attachments/assets/b32098d0-5252-4f85-b8c7-e79feec06fc9" />
+
+<img width="1853" height="509" alt="pj2-2" src="https://github.com/user-attachments/assets/d7a27a3e-5e65-4849-8c20-ff3055ae2314" />
 
 ### Step 3: Ideate
-<img width="1835" height="546" alt="image" src="https://github.com/user-attachments/assets/4400ff78-abc0-412b-bc64-32b0161a6e77" />
+
+<img width="1518" height="541" alt="pj2-3" src="https://github.com/user-attachments/assets/6c5d8508-d8db-49f8-9703-14136333063f" />
 
 ### Step 4: Prototype and Review
 - This section is shown in Dashboard
@@ -165,7 +167,7 @@ Canada, Africa, and EMEA have **very small bubbles**, meaning return rates are n
 - **Machines** (33.3%) and **Bookcases** (25%), **Copiers** (24.6%) combine both high growth and a larger customer base (900–1000+), making them stronger drivers of expansion.
 
 #### 4️⃣ Product Details
-<img width="1281" height="733" alt="image" src="https://github.com/user-attachments/assets/cb008d8a-9e27-451a-ad22-04f989152dac" />
+
 
 ---
 
